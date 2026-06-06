@@ -43,5 +43,13 @@
   "devDependencies": {
     "tsup": "^8.5.1",
     "typescript": "^6.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash-dani11/netmeter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yash-dani11/netmeter/issues"
+  },
+  "homepage": "https://github.com/yash-dani11/netmeter#readme"
 }

@@ -185,4 +185,4 @@ Only collect and share device data your users have agreed to.
 
 ## License
 
-[MIT](LICENSE) — see the `LICENSE` file for details.
+[MIT](https://github.com/yash-dani11/netmeter/blob/main/LICENSE) — see the `LICENSE` file for details.
