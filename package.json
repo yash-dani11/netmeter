@@ -1,6 +1,6 @@
 {
   "name": "netmeter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight browser utilities for network speed tests and device information.",
   "type": "module",
   "main": "./dist/index.cjs",
